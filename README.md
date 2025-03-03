@@ -1,34 +1,34 @@
-# AmazeChat
+# AmazeTalk
 
-Welcome to AmazeChat, a real-time chatting web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) along with Socket.IO for seamless real-time communication. This project aims to provide users with an intuitive platform to engage in instant messaging while leveraging modern web technologies.
+Welcome to AmazeTalk, a real-time chatting web application built using the MERN stack (MongoDB, Express.js, React.js, Node.js) along with Socket.IO for seamless real-time communication. This project aims to provide users with an intuitive platform to engage in instant messaging while leveraging modern web technologies.
 
 ---
 
 ## Project Overview 📚:
 
-AmazeChat offers users a platform for secure and real-time communication, equipped with advanced features to enhance their chatting experience.
+AmazeTalk offers users a platform for secure and real-time communication, equipped with advanced features to enhance their chatting experience.
 
 ---
 
 ## Features 🖼️:
 
 ### Secure Login & Registration with JWT ⚠️
-AmazeChat provides secure login and registration with JWT token authentication. Users can optionally personalize their accounts with profile pictures, enhancing their experience on the platform.
+AmazeTalk provides secure login and registration with JWT token authentication. Users can optionally personalize their accounts with profile pictures, enhancing their experience on the platform.
 
 ### Real-Time User Status and Typing Indicators 🤙
-AmazeChat shows real-time user online status and typing indicators in chat, enhancing interaction and communication on the platform.
+AmazeTalk shows real-time user online status and typing indicators in chat, enhancing interaction and communication on the platform.
 
 ### Group Chat 👨‍👩‍👦‍👦
-AmazeChat allows users to create groups and engage in group chats, enabling seamless collaboration and communication among multiple users in real-time.
+AmazeTalk allows users to create groups and engage in group chats, enabling seamless collaboration and communication among multiple users in real-time.
 
 ### Real-Time Notifications 🔔
-AmazeChat provides instant notifications in real-time, keeping users updated on new messages for timely communication and engagement.
+AmazeTalk provides instant notifications in real-time, keeping users updated on new messages for timely communication and engagement.
 
 ### Dark Mode 🌚
-AmazeChat offers a sleek and modern dark mode option, providing users with a comfortable viewing experience in low-light environments and reducing eye strain during extended usage.
+AmazeTalk offers a sleek and modern dark mode option, providing users with a comfortable viewing experience in low-light environments and reducing eye strain during extended usage.
 
 ### Responsive Mobile Design 📱
-AmazeChat boasts a responsive mobile design, ensuring seamless access and usability across various devices and screen sizes. Users can enjoy the full functionality of the application on their smartphones or tablets, enhancing accessibility and convenience on the go.
+AmazeTalk boasts a responsive mobile design, ensuring seamless access and usability across various devices and screen sizes. Users can enjoy the full functionality of the application on their smartphones or tablets, enhancing accessibility and convenience on the go.
 
 ---
 
@@ -59,13 +59,13 @@ To run this project locally, you need to follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/vibhorarya12/AmazeChat-MERN-CHAT-APP.git
+git clone https://github.com/vibhorarya12/AmazeTalk-MERN-CHAT-APP.git
 ```
 
 ### 2. Install Dependencies for Client
 Navigate to the client folder:
 ```bash
-cd client/AmazeChat
+cd client/AmazeTalk
 ```
 Install dependencies using npm:
 ```bash
@@ -75,7 +75,7 @@ npm install
 ### 3. Environment Variables Setup for Client
 Navigate to the client directory:
 ```bash
-cd client/AmazeChat
+cd client/AmazeTalk
 ```
 Create a new `.env` file:
 ```bash
@@ -115,7 +115,7 @@ npm start
 ### 7. Run Client Application
 Navigate to the client directory:
 ```bash
-cd ../client/AmazeChat
+cd ../client/AmazeTalk
 ```
 Start the React app:
 ```bash
