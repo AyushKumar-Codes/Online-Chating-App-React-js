@@ -59,7 +59,7 @@ To run this project locally, you need to follow these steps:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/vibhorarya12/AmazeTalk-MERN-CHAT-APP.git
+git clone https://github.com/AyushKumar-Codes/Online-Chating-App-React-js.git
 ```
 
 ### 2. Install Dependencies for Client
